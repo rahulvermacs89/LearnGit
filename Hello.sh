@@ -1,3 +1,5 @@
 #/bin/sh
 
-ech "Hello"
+echo "Hello"
+
+
